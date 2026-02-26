@@ -82,12 +82,3 @@ Seaborn
 
 Jupyter Notebook
 
-📈 What You’ll Learn
-
-How to clean, transform, and prepare raw datasets
-
-How to perform exploratory data analysis step-by-step
-
-How to build visual stories through charts and statistical summaries
-
-How to interpret insights for real-world decision-making
