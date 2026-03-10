@@ -1,84 +1,95 @@
-Exploratory Data Analysis (EDA) Projects
+# Exploratory Data Analysis (EDA) Projects
 
-A collection of real-world analytical case studies demonstrating data cleaning, visualization, and insight generation using Python.
+A collection of real-world data analytics case studies demonstrating data cleaning, visualization, and insight generation using Python.
+These projects focus on extracting meaningful insights from raw datasets to support data-driven decision making across multiple industries.
 
- Project Overview
+Project Overview
 
-This repository contains three end-to-end Exploratory Data Analysis (EDA) projects across different industries—technology, hospitality, and healthcare. Each project showcases structured data preprocessing, visual analytics, and actionable insights.
+This repository contains three end-to-end Exploratory Data Analysis (EDA) projects across different domains:
 
- 1. App Insights Analysis (Google Play Store Dataset)
+•	Technology
+•	Hospitality
+•	Healthcare
+Each project demonstrates:
+•	Data preprocessing and cleaning
+•	Exploratory data analysis techniques
+•	Visual analytics and trend discovery
+•	Insight generation and business recommendations
 
-Imagine working as a data analyst for a tech company specializing in mobile applications. The company has acquired a dataset from the Google Play Store containing app details such as category, ratings, reviews, size, installs, and more.
-The goal of this analysis is to derive insights that can help:
+Projects
 
-Improve app development strategies
+1. App Insights Analysis (Google Play Store Dataset)
+   
+In this project, the role of a data analyst in a mobile app company is simulated. The dataset contains app information such as category, ratings, reviews, installs, and size.
 
-Enhance user experience
+The analysis aims to generate insights that can help:
 
-Identify factors influencing app popularity
+•	Improve app development strategies
+•	Enhance user experience
+•	Identify factors influencing app popularity
+•	Increase downloads and revenue
+Key Analysis Steps
+•	Data cleaning and preprocessing
+•	Feature engineering
+•	Trend analysis of ratings and installs
+•	Category-wise performance analysis
+•	Visual insights and recommendations for product teams
 
-Boost app downloads and revenue
+3. Hotel Operations Analysis (Hotel Booking Dataset)
+   
+This project analyzes booking data for Elite Hotels International, a hospitality brand with multiple properties across regions.
+The objective is to understand customer booking behavior and operational patterns to improve hotel performance.
 
-This project covers:
-✔ Data cleaning & preprocessing
-✔ Feature engineering
-✔ Trend analysis of ratings and installs
-✔ Visual insights on category performance
-✔ Recommendations for product teams
+Goals
 
- 2. Hotel Operations Analysis (Hotel Booking Dataset)
+•	Understand booking trends over time
+•	Analyze guest preferences and behavior
+•	Identify factors leading to booking cancellations
+•	Improve occupancy rates and revenue
 
-Elite Hotels International, a leading brand in the hospitality sector, faces operational challenges in understanding customer booking patterns and satisfaction levels. With multiple properties across regions, optimizing operations requires deeper insights from booking data.
+Key Workflows
 
-This analysis aims to:
+•	Handling missing and inconsistent data
+•	Seasonal booking trend analysis
+•	Market segment performance evaluation
+•	Cancellation rate analysis
+•	Operational insights and recommendations
 
-Understand booking trends over time
+5. Heart Health Analysis (Heart Disease Dataset)
+   
+Heart disease is one of the leading causes of death globally. This project analyzes a medical dataset containing patient health indicators to explore risk factors associated with heart disease.
 
-Analyze guest behavior and preferences
+Objectives
 
-Identify factors contributing to cancellations
+•	Identify key health indicators correlated with heart disease
+•	Compare patterns between affected and non-affected patients
+•	Visualize data distributions and anomalies
+•	Generate insights for health monitoring and prevention
 
-Provide insights for improving occupancy and revenue
+Analysis Includes
 
-Key workflows include:
-✔ Handling missing and inconsistent data
-✔ Seasonal booking trend analysis
-✔ Market segment performance evaluation
-✔ Cancellation rate analysis
-✔ Insight-driven operational recommendations
-
- 3. Heart Health Analysis (Heart Disease Dataset)
-
-Heart disease remains one of the leading causes of mortality worldwide, and understanding key risk factors is critical for early prediction and prevention.
-This project focuses on analyzing a medical dataset containing patient health indicators such as cholesterol levels, resting blood pressure, chest pain type, exercise-induced angina, and more.
-
-Objectives:
-
-Identify key features correlated with heart disease
-
-Compare health patterns between affected and non-affected patients
-
-Visualize distributions, patterns, and anomalies
-
-Derive data-driven insights for health monitoring
-
-Includes:
-✔ Statistical summaries
-✔ Correlation heatmaps
-✔ Risk factor exploration
-✔ Health outcome comparison charts
+•	Statistical summaries
+•	Correlation heatmaps
+•	Risk factor exploration
+•	Health outcome comparison charts
 
 Tech Stack
 
-Python
+The following tools and libraries were used in these projects:
 
-Pandas
+•	Python
+•	Pandas
+•	NumPy
+•	Matplotlib
+•	Seaborn
+•	Jupyter Notebook
 
-NumPy
+Skills Demonstrated
 
-Matplotlib
-
-Seaborn
-
-Jupyter Notebook
+•	Exploratory Data Analysis (EDA)
+•	Data Cleaning & Preprocessing
+•	Data Visualization
+•	Statistical Analysis
+•	Insight Generation
+•	Business Problem Solving
 
