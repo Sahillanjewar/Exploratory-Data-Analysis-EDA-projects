@@ -8,12 +8,19 @@ Project Overview
 This repository contains three end-to-end Exploratory Data Analysis (EDA) projects across different domains:
 
 •	Technology
+
 •	Hospitality
+
 •	Healthcare
+
 Each project demonstrates:
+
 •	Data preprocessing and cleaning
+
 •	Exploratory data analysis techniques
+
 •	Visual analytics and trend discovery
+
 •	Insight generation and business recommendations
 
 Projects
@@ -25,14 +32,23 @@ In this project, the role of a data analyst in a mobile app company is simulated
 The analysis aims to generate insights that can help:
 
 •	Improve app development strategies
+
 •	Enhance user experience
+
 •	Identify factors influencing app popularity
+
 •	Increase downloads and revenue
+
 Key Analysis Steps
+
 •	Data cleaning and preprocessing
+
 •	Feature engineering
+
 •	Trend analysis of ratings and installs
+
 •	Category-wise performance analysis
+
 •	Visual insights and recommendations for product teams
 
 3. Hotel Operations Analysis (Hotel Booking Dataset)
@@ -43,16 +59,23 @@ The objective is to understand customer booking behavior and operational pattern
 Goals
 
 •	Understand booking trends over time
+
 •	Analyze guest preferences and behavior
+
 •	Identify factors leading to booking cancellations
+
 •	Improve occupancy rates and revenue
 
 Key Workflows
 
 •	Handling missing and inconsistent data
+
 •	Seasonal booking trend analysis
+
 •	Market segment performance evaluation
+
 •	Cancellation rate analysis
+
 •	Operational insights and recommendations
 
 5. Heart Health Analysis (Heart Disease Dataset)
@@ -62,15 +85,21 @@ Heart disease is one of the leading causes of death globally. This project analy
 Objectives
 
 •	Identify key health indicators correlated with heart disease
+
 •	Compare patterns between affected and non-affected patients
+
 •	Visualize data distributions and anomalies
+
 •	Generate insights for health monitoring and prevention
 
 Analysis Includes
 
 •	Statistical summaries
+
 •	Correlation heatmaps
+
 •	Risk factor exploration
+
 •	Health outcome comparison charts
 
 Tech Stack
@@ -78,18 +107,28 @@ Tech Stack
 The following tools and libraries were used in these projects:
 
 •	Python
+
 •	Pandas
+
 •	NumPy
+
 •	Matplotlib
+
 •	Seaborn
+
 •	Jupyter Notebook
 
 Skills Demonstrated
 
 •	Exploratory Data Analysis (EDA)
+
 •	Data Cleaning & Preprocessing
+
 •	Data Visualization
+
 •	Statistical Analysis
+
 •	Insight Generation
+
 •	Business Problem Solving
 
